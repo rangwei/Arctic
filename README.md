@@ -14,14 +14,17 @@ Arctic是我们正在实现的智能Survey解决方案，通过我们学习的�
 
 RANG
 
+![image](https://github.com/rangwei/Arctic/blob/master/node_mongo.png)
 * [node.js + mongodb](https://github.com/rangwei/arctic-nodejs)
 
 * [cds + SQLiteDB](https://github.com/rangwei/arctic-db)
 
+![image](https://github.com/rangwei/Arctic/blob/master/Get-Start-With-Sails.js.jpg)
 * [sails.js](https://github.com/rangwei/arctic-sailsjs)
 
 ## Frontend
 
 RANG
 
+![image](https://github.com/rangwei/Arctic/blob/master/openui5.png)
 * [ui5](https://github.com/rangwei/arctic-ui)
